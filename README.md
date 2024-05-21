@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 <!--
 **tofu-10/tofu-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+-I'm Rijan Mohan Shrestha,
+-A passionate IT student from Nepal,
+- How to reach me: rijanshta.lm10@gmail.com,
+- Fun fact: I like typing and coding along with singing and playing musical instrument. :)))))))))))
