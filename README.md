@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--I'm Rijan Mohan Shrestha,
--A passionate IT student from Nepal,
+- I'm Rijan Mohan Shrestha,
+- A passionate IT student from Nepal,
 - How to reach me: rijanshta.lm10@gmail.com,
 - Fun fact: I like typing and coding along with singing and playing musical instrument. :)))))))))))
