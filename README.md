@@ -2,20 +2,25 @@
    
   ![](https://komarev.com/ghpvc/?username=tofu-10&abbreviated=true&base=10&label=PROFILE+VIEWS&style=for-the-badge)
    
-# Hi there 👋 
+# Hi there 👋  
+
+✨ Aspiring Software Developer | Music Enthusiast | Tech Explorer ✨  
+
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=550&lines=Rijan+Mohan+Shrestha+(tofu);IT+Student+from+Nepal)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=550&lines=Rijan+M.+Shrestha+(tofu-10)+|+IT+Student+from+Nepal)](https://git.io/typing-svg)
 
 ---
 
 ## 👨‍💻 About Me  
 
-- 🎓 IT student passionate about **software development & problem-solving**  
-- 📫 Reach me at: **rijanshta.lm10@gmail.com**  
-- 🎶 Outside of tech, I enjoy **singing 🎤, playing instruments 🎸🥁, and typing challenges ⌨️**  
-- 🌱 Currently learning: **C, Python, C#, .NET, and Arduino projects**  
-- ⚡ Goal: To grow into a versatile developer while keeping creativity alive through music & tech  
+- **Learning:** C, Python, C#, .NET, Arduino  
+- **Passions:** Coding, problem-solving, blending creativity with tech  
+- **Fun side:** Singing 🎤, instruments 🎸🥁, typing speed challenges ⌨️  
+- **Goal:** To grow into a versatile developer while keeping creativity alive  
+- **Online alias:** tofu-10  
+
+📫 Reach me at: **rijanshta.lm10@gmail.com**  
 
 ---
 
@@ -43,13 +48,9 @@
 
 <div align="center">
 
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=tofu-10&theme=rust-ferris-light&border_radius=16&short_numbers=true)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tofu-10&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
-![](https://github-readme-stats.vercel.app/api?username=tofu-10&show_icons=true&theme=flag-india)  
-
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=tofu-10&theme=radical&border_radius=16&short_numbers=true)](https://git.io/streak-stats)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tofu-10&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=tofu-10&show_icons=true&theme=radical)  
 
 </div>
 
@@ -59,17 +60,10 @@
 
 <div align="center">
    
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rijan-shrestha-282880281/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:rijanshta.lm10@gmail.com)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rijanstha.10/)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rijan.shrestha.100911)  
-
-
-</div>
-
----
-
-<div align="center">
-
-## ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rijan-shrestha-282880281/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:rijanshta.lm10@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rijanstha.10/)  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rijan.shrestha.100911)  
 
 </div>
 
