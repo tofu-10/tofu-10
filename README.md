@@ -5,18 +5,21 @@
 # Hi there 👋 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Rijan+Mohan+Shrestha+(tofu))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=550&lines=Rijan+Mohan+Shrestha+(tofu);IT+Student+from+Nepal)](https://git.io/typing-svg)
 
 ---
 
-- 🎓 IT student from Nepal 🇳🇵<br>
-- 📫 Reach me at: **rijanshta.lm10@gmail.com**<br>
-- 🎶 Fun fact: I love **typing ⌨️, coding 💻, singing 🎤, and playing musical instruments 🎸🥁**<br>
-- 🌱 Currently learning: C, Python, and exploring new stacks  
+## 👨‍💻 About Me  
+
+- 🎓 IT student passionate about **software development & problem-solving**  
+- 📫 Reach me at: **rijanshta.lm10@gmail.com**  
+- 🎶 Outside of tech, I enjoy **singing 🎤, playing instruments 🎸🥁, and typing challenges ⌨️**  
+- 🌱 Currently learning: **C, Python, and front-end development basics**  
+- ⚡ Goal: To grow into a versatile developer while keeping creativity alive through music & tech  
 
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack  
 
 <div align="center">
 
@@ -33,7 +36,7 @@
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats  
 
 <div align="center">
 
@@ -47,7 +50,7 @@
 
 ---
 
-## 🌐 Socials:
+## 🌐 Connect with Me  
 
 <div align="center">
 
@@ -60,7 +63,7 @@
 
 <div align="center">
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 </div>
@@ -69,6 +72,7 @@
 
 <div align="center">
 
+## 🏆 GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=tofu-10&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
