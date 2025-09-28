@@ -9,7 +9,6 @@
 
 ---
 
-- 👨‍💻 I'm **Rijan Mohan Shrestha (tofu)**<br>
 - 🎓 IT student from Nepal 🇳🇵<br>
 - 📫 Reach me at: **rijanshta.lm10@gmail.com**<br>
 - 🎶 Fun fact: I love **typing ⌨️, coding 💻, singing 🎤, and playing musical instruments 🎸🥁**<br>
