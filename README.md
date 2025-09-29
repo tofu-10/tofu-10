@@ -1,6 +1,6 @@
 <div align="center"> 
    
-  ![](https://komarev.com/ghpvc/?username=tofu-10&abbreviated=true&base=10&label=PROFILE+VIEWS&style=for-the-badge)
+  ![](https://komarev.com/ghpvc/?username=tofu-10&abbreviated=true&base=25&label=PROFILE+VIEWS&style=for-the-badge)
    
 # Hi there 👋  
 
