@@ -4,7 +4,7 @@
    
 # Hi there 👋  
 
-✨ Aspiring Software Developer | Music Enthusiast | Tech Explorer ✨  
+✨Aspiring Software Developer | Music Enthusiast | Tech Explorer ✨  
 
 </div>
 
