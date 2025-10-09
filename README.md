@@ -52,7 +52,9 @@
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tofu-10&theme=radical&border_radius=16&short_numbers=true)](https://git.io/streak-stats)  
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tofu-10&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+
 ![](https://github-readme-stats.vercel.app/api?username=tofu-10&show_icons=true&theme=radical)  
 
 </div>
