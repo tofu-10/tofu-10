@@ -66,9 +66,13 @@
 <div align="center">
    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rijan-shrestha-282880281/)  
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:rijanshta.lm10@gmail.com)  
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rijanstha.10/)  
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rijan.shrestha.100911)  
+
 
 </div>
 
